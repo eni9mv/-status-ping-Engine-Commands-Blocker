@@ -1,5 +1,6 @@
 🚫 ReHLDS Status & Ping Blocker
-works with ![ReHLDS Version](https://img.shields.io/badge/ReHLDS-3.14.0.857-blue.svg)
+works with
+![ReHLDS Version](https://img.shields.io/badge/ReHLDS-3.14.0.857-blue.svg)
 
 How to install:
 
